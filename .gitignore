@@ -1,0 +1,28 @@
+# Jupyter autosaves
+.ipynb_checkpoints/
+
+# Dataset files should not be committed
+data/
+
+# Assignment brief PDF is for local reference only
+COS80027_final_project_2026.pdf
+
+# Render/check folders created while preparing Word documents
+ASS3_task_division_plan_updated/
+ASS3_task_division_plan_updated_fresh_render*/
+docx_render_check*/
+contribution_render_check/
+ASS3_contribution_template/
+
+# Temporary Office files
+~$*.docx
+~WRL*.tmp
+*.tmp
+
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# OS/editor files
+.DS_Store
+Thumbs.db
